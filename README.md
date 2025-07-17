@@ -111,10 +111,10 @@ git push -u origin main
 Puedes añadir capturas de tu flujo en N8N o de la terminal ejecutando Flask.
 Por ejemplo:
 
-```
-📷 ./screenshots/n8n-flujo.png  
-📷 ./screenshots/flask-terminal.png
-```
+![Flujo de trabajo ](/Imagenes/Imagen1.png)
+![Respuesta ](/Imagenes/imagen2.png)
+
+
 
 ---
 
