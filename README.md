@@ -50,7 +50,6 @@ Servidor corriendo en: `http://localhost:5000/`
    * **Webhook**: Método POST, URL: `/mensaje`
    * **Function** (opcional): Para transformar datos si es necesario.
    * **HTTP Request**: Configurado para enviar al endpoint de Flask `http://localhost:5000/chat`
-   * **Telegram** u otro nodo de salida: Para mostrar la respuesta.
 4. Activa el flujo y prueba enviando un mensaje.
    La respuesta será generada por el modelo de lenguaje (LLM) usando OpenAI.
 
@@ -106,15 +105,10 @@ git push -u origin main
 
 ---
 
-## 📸 Capturas (opcional)
-
-Puedes añadir capturas de tu flujo en N8N o de la terminal ejecutando Flask.
-Por ejemplo:
+## 📸 Capturas 
 
 ![Flujo de trabajo ](/Imagenes/Imagen1.png)
 ![Respuesta ](/Imagenes/imagen2.png)
-
-
 
 ---
 
@@ -129,14 +123,13 @@ Por ejemplo:
 ## 📬 Contacto
 
 * GitHub: [@Karen17Mendoza](https://github.com/Karen17Mendoza)
-* Email: (opcional)
 
 ---
 
 ## 🏁 Licencia
 
-MIT © 2025 Karen Mendoza
+Karen Mendoza
 
-```
+
 
 
